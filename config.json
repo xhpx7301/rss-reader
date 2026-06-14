@@ -1,12 +1,11 @@
 {
     "values": [
-        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg",
         "https://tgnsrss.6990699.xyz/telegram/channel/nodeseekc",
         "https://linux.do/latest.rss",
         "https://v2ex.com/feed/tab/tech.xml"
     ],
     "refresh": 6,
     "autoUpdatePush": 7,
-    "nightStartTime": "06:30:00",
-    "nightEndTime": "19:30:00"
+    "nightStartTime": "00:00:00",
+    "nightEndTime": "23:59:59"
 }
